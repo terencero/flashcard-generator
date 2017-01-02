@@ -1,22 +1,6 @@
 -----------------Basic Flash Card--------------------
 
-undefined-----------------Basic Flash Card--------------------
-
-undefined-----------------Basic Flash Card--------------------
-
------------------Basic Flash Card--------------------
-
------------------Basic Flash Card--------------------
-
-[object Object]-----------------Basic Flash Card--------------------
-
-?,.-----------------Basic Flash Card--------------------
-
-Did you get anything to work?,Yes, I did. 
-
------------------Basic Flash Card--------------------
-
-Who was Socrates' most famous pupil?,Plato.
+[object Object]
 
 -----------------Basic Flash Card--------------------
 
@@ -24,49 +8,26 @@ Who was Socrates' most famous pupil?,Plato.
 
 -----------------Basic Flash Card--------------------
 
-hello?,hi.
+[object Object]
 
 -----------------Basic Flash Card--------------------
 
-hello?,hi.
+[object Object]
 
 -----------------Basic Flash Card--------------------
 
-hello?,hi.
+[object Object]
 
 -----------------Basic Flash Card--------------------
 
-hello?,hi.
+[object Object]
 
 -----------------Basic Flash Card--------------------
 
-hello?,hi.
+[object Object]
 
 -----------------Basic Flash Card--------------------
 
-hello?,hi.
+[object Object]
 
------------------Basic Flash Card--------------------
-
-hello?,hi
-
------------------Basic Flash Card--------------------
-
-Who was Plato's most famous pupil?,Aristotle.
-
------------------Basic Flash Card--------------------
-
-who?,you.
-
------------------Basic Flash Card--------------------
-
-questions,again?,yes
-
------------------Basic Flash Card--------------------
-
-title,q,a
-
------------------Basic Flash Card--------------------
-
-title2,q2,a2
-
+[object Object]
