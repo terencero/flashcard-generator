@@ -7,21 +7,27 @@ var inquirer = require('inquirer');
 var fs = require('fs');
 
 
-// fs.readFile('log.txt', 'utf8', function(err, data){
-// 	output = data;
-// 	console.log(output);
-// });
 
 
 
-// console.log(basicflashcard);
+
 
 
 // ---------------------node front end code--------------------------------------------
-// var createBasicFlashCard = function() {
+inquirer.prompt([
 
+	{	
+		type: 'list',
+		message: 'Choose basic or cloze-deleted flash cards.',
+		choices: ['basic', 'cloze-deleted'],
+		name: 'choice'
+	}
 
-// };
-// createBasicFlashCard();
-
+	]).then(function(user){
+		if(user.choice === 'basic'){
+				basicflashcard();
+		} else if(user.choice === 'cloze-deleted'){
+			clozecard();
+		}
+	});
 
